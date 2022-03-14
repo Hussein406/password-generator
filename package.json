@@ -1,0 +1,24 @@
+{
+  "name": "passwordgenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "style.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy":"gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hussein406/password-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hussein406/password-generator/issues"
+  },
+  "homepage": "https://github.com/Hussein406/password-generator#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3",
+    "ghpages": "^0.0.10"
+  }
+}
